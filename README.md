@@ -1,7 +1,7 @@
 # django-course
 Code developed in Django module of www.python.pro.br
 
-application available on https://pyprodjango-barthjr.herokuapp.com/
+Application available on https://pyprodjango-barthjr.herokuapp.com/
 
 [![Build Status](https://travis-ci.com/BarthJr/django-course.svg?branch=master)](https://travis-ci.com/BarthJr/django-course)
 [![Updates](https://pyup.io/repos/github/BarthJr/django-course/shield.svg)](https://pyup.io/repos/github/BarthJr/django-course/)
