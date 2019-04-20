@@ -19,4 +19,4 @@ def test_page_title(response):
 
 
 def test_home_link(response):
-    assert_contains(response, f'href="{reverse("core:home")}">Home')
+    assert_contains(response, f'href="{reverse("core:home")}">Python Pro')
