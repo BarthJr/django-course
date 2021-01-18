@@ -431,11 +431,10 @@
         },
         "pytest-cov": {
             "hashes": [
-                "sha256:0ab664b25c6aa9716cbf203b17ddb301932383046082c081b9848a0edf5add33",
-                "sha256:230ef817450ab0699c6cc3c9c8f7a829c34674456f2ed8df1fe1d39780f7c87f"
+                "sha256:626a8a6ab188656c4f84b67d22436d6c494699d917e567e0048dda6e7f59e028",
+                "sha256:e90e034cde61dacb1394639a33f449725c591025b182d69752c1dd0bfec639a7"
             ],
-            "index": "pypi",
-            "version": "==2.6.1"
+            "version": "==2.11.0"
         },
         "requests": {
             "hashes": [
