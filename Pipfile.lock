@@ -91,10 +91,10 @@
         },
         "django-storages": {
             "hashes": [
-                "sha256:8e35d2c7baeda5dc6f0b4f9a0fc142d25f9a1bf72b8cebfcbc5db4863abc552d",
-                "sha256:b1a63cd5ea286ee5a9fb45de6c3c5c0ae132d58308d06f1ce9865cfcd5e470a7"
+                "sha256:a88199d67e2fc032e92de02106315ed005ae22a2bf4df5269c0add4148fec739",
+                "sha256:cb079981e2e4fe16d7f41000913225140dc334a84f5b7c5e4fcc6b7e6a028222"
             ],
-            "version": "==1.7.1"
+            "version": "==1.12.1"
         },
         "docutils": {
             "hashes": [
